@@ -13,6 +13,15 @@ padding-top: 40px;
 font-family: 'Pattaya', sans-serif;
 
 }
+
+hr {
+	background-color: #fff;
+  border-top: 2px dashed #8c8b8b;
+  width: 60%;
+
+}
+
+
 .top-title
 {
   font-size: 20px;
@@ -94,9 +103,16 @@ padding-top: 65px;
   margin-bottom: 60px;
 }
 
+.school_0{
+  float: left;
+}
+
+.school_1{
+  float: right;
+}
+
 .school{
   width: 18%;
-  float: left;
   margin-right: 22px;
   margin-bottom: 83px;
 }
